@@ -3,5 +3,5 @@ projectKey=meteoapp_testmeteo
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.51767
 dashboardUrl=https://sonarcloud.io/dashboard?id=meteoapp_testmeteo
-ceTaskId=AYzBNsiEwCJTNCr3cw9p
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzBNsiEwCJTNCr3cw9p
+ceTaskId=AYzB7jcQw9aIP1mwWbmk
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzB7jcQw9aIP1mwWbmk

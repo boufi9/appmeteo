@@ -15,4 +15,5 @@ app.get('/weather', async (req, res) => {
     }
 });
 
+module.exports = app; // Export the Express app
 app.listen(PORT, () => console.log(`WeatherDataService running on port ${PORT}`));
